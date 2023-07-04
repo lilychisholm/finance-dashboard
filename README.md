@@ -1,2 +1,2 @@
 # personal-finance-dashboard
-
+This was something I made to practice python and streamlit! It turns out streamlit is a super nice thing to use when working data and data vizualizations. None of this used any HTML or CSS or JavaScript (at least, none that I wrote). Instead, all of the display was made using streamlit! It saved me a lot of time and helped me learn how to use pandas, numpy, and other tools for working with data.
